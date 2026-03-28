@@ -19,7 +19,8 @@ puppeteer.use(StealthPlugin());
   const targetUrls = [
     'https://iampardeepseo.blogspot.com/2026/02/shopify-vs-woocommerce-in-punjab-which.html', // 1st: Blogger
     'https://www.profitablecpmratenetwork.com/svqx9q8j2s?key=e851e41830e9bde6c3b6221eae15c42f',     // 2nd: Adsterra
-    'https://omg10.com/4/7146417'       // 3rd: Monetag
+    'https://iampardeepseo.blogspot.com/2026/02/top-5-benefits-of-shopify-for-ludhiana.html', // 1st: Blogger
+    'https://www.profitablecpmratenetwork.com/n9bh94fby?key=efb1fd72c21bfec9d9c4e2f50dae9f69'       // 3rd: Monetag
   ];
 
   // 2. SOCIAL & SEARCH SOURCES
